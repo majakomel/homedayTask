@@ -80,6 +80,13 @@ main {
   min-height: 70vh;
 }
 
+.footer {
+  background-color: lightgray;
+  height: 100px;
+  &__inner {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 40px;
   }
 }
 </style>
