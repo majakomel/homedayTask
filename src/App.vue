@@ -14,6 +14,11 @@
             <li class="navItem">
               <router-link to="/" class="navItem__link">Search</router-link>
             </li>
+            <li class="navItem">
+              <router-link to="/recent" class="navItem__link">
+                Recent Searches
+              </router-link>
+            </li>
           </ul>
         </nav>
       </div>
